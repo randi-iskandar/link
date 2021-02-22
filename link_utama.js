@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="a-glass-day-could-help-you-beat-breast-cancer.html"}
-if(x=="2"){xxx="leukemia-most-misunderstood-cancer.html"}
-if(x=="3"){xxx="tips-about-information-on-breast-cancer.html"}
-if(x=="4"){xxx="colorectal-cancer-prevention-tips-and-treatment-methods.html"}a_to_ve[i].href="https://link.randi.id/2018/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="peluang-bisnis-online-rumahan-tanpa-modal.html"}
+if(x=="2"){xxx="3-aplikasi-akuntansi-online-terbaik.html"}
+if(x=="3"){xxx="10-software-penting-untuk-laptop-dan-pc.html"}
+if(x=="4"){xxx="10-web-hosting-terbaik-indonesia.html"}a_to_ve[i].href="https://link.randi.id/2018/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
